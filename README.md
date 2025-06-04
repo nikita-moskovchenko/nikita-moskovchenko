@@ -9,7 +9,7 @@
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/nikitamoskovchenko /  WA: +45 25176086 /  TG: @nikitatoday 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Strong developers need a strong manager 💪
---> CV:
+CV:
 __________________________________________________________________________________________________________________________________________________________________________________________
 - Education 
 IT-University of Copenhagen							
