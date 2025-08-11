@@ -37,9 +37,16 @@ Developed a comprehensive taxonomy for Staking-as-a-Service platforms to standar
 
 Thesis: Interoperability and value creation in liquid staking. Grade: 12 (A).
 
-Business Academy Southwest, Esbjerg				
+
+
+Business Academy Southwest, Esbjerg		
+
+
 AP Degree — Marketing Management				  	                    2019 – 2021
+
+
 Professional Bachelor — International Sales & Marketing		      2021 – 2023
+
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 - Work experience
