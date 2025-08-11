@@ -36,18 +36,18 @@ Marketing assistant & intern
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 - Skills 
-Technical
+Technical:
 PowerPoint, Excel
 Python, SQL
 JavaScript, Solidity 
 Power Platform
 
-Languages
+Languages:
 Danish (fluent)
 English (fluent)
 Russian (native)
 Spanish (intermediate)
 
-Hobbies
+Hobbies:
 Bodybuilding   Piano  Chess 
 
