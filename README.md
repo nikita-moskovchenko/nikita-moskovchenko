@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on finding my next challenge after graduating with MSc in Digital Innovtion & Management with specialization in Digital Economics from the IT University of Copenhagen.
 - 🌱 I’m currently learning smart contract development on Ethereum using Solidity.
-- 👯 I’m looking to collaborate on IT projects as a assistant, coordinator, or a manager.
+- 👯 I’m looking to collaborate on IT projects as a consultant, coordinator, or a manager.
 - 🤔 I’m looking for help with connecting with innovative and ambitious teams.
 - 💬 Ask me about DeFi, Proof-of-Stake, STaking-as-a-Service.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/nikitamoskovchenko /  WA: +45 25176086 /  TG: @nikitatoday 
