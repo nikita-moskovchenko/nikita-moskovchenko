@@ -66,17 +66,17 @@ ________________________________________________________________________________
 
   
 Technical:
-PowerPoint, Excel
-Python, SQL
-JavaScript, Solidity 
+PowerPoint, Excel,
+Python, SQL,
+JavaScript, Solidity, 
 Power Platform
 
 Languages:
-Danish (fluent)
-English (fluent)
-Russian (native)
+Danish (fluent),
+English (fluent),
+Russian (native),
 Spanish (intermediate)
 
 Hobbies:
-Bodybuilding   Piano  Chess 
+Bodybuilding, Piano, Chess 
 
