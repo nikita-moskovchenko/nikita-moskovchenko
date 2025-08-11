@@ -43,14 +43,16 @@ Professional Bachelor — International Sales & Marketing		      2021 – 2023
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 - Work experience
-Matematikcenter, København				                        		02/2024 – 07/2024
-Volunteer as math tutor
-Ribe Byferie Resort, Ribe							                        06/2022 – 07/2023 
-Receptionist & marketing intern
-Hovmark Data, Esbjerg						                             	08/2020 – 04/2021 
-Marketing assistant & intern 
+Matematikcenter, København				                        		02/2024 – 07/2024      Volunteer as math tutor
 
-__________________________________________________________________________________________________________________________________________________________________________________________
+
+Ribe Byferie Resort, Ribe							                        06/2022 – 07/2023       Receptionist & marketing intern
+
+
+Hovmark Data, Esbjerg						                             	08/2020 – 04/2021       Marketing assistant & intern 
+
+___________________________________________________________
+_______________________________________________________________________________________________________________________________
 - Skills 
 Technical:
 PowerPoint, Excel
