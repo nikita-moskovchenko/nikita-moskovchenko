@@ -49,8 +49,7 @@ Russian (native)
 Spanish (intermediate)
 
 Hobbies
-
 Bodybuilding    
-Piano
+Piano  
 Chess 
 
