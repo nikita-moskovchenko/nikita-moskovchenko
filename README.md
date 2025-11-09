@@ -19,7 +19,7 @@ IT-University of Copenhagen
 Master’s Degree – Digital Innovation & Management 		         2023 – 2025
 
 
-Specialization: Digital Economics
+Specialization: Digital Economics (blockchain)
 
 
 Key Projects & Achievements: 
@@ -31,10 +31,10 @@ Conducted a critical analysis of greenwashing practices in the fast-fashion indu
 Developed a comprehensive taxonomy for Staking-as-a-Service platforms to standardize industry classifications.
 
 
-1st place, 7th International Summer Blockchain School Hackathon (2024): Led team ‘Valid’ in designing a blockchain-based solution to detect and mitigate misinformation in online media.
+1st place, 7th International Summer Blockchain School Hackathon (2024): designed a blockchain-based solution to detect and mitigate misinformation in online media.
 
 
-Thesis: Interoperability and value creation in liquid staking. Grade: 12 (A).
+Thesis: Interoperability and Value Creation in Liquid Staking. Grade: 12 (A).
 
 
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
   
 Technical:
-Python, SQL,
+Python (pandas), SQL,
 JavaScript, Solidity, 
 Power Platform,
 PowerPoint, Excel
@@ -72,9 +72,8 @@ PowerPoint, Excel
 Languages:
 Danish (fluent),
 English (fluent),
-Russian (native),
 Spanish (intermediate)
 
 Hobbies:
-Bodybuilding, Piano, Chess 
+Fitness, Piano, Chess 
 
